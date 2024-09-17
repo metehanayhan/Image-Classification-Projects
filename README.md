@@ -29,6 +29,3 @@ The results for both projects include accuracy metrics and loss values. Plots of
 
 ### Contributing
 Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request.
-
-### License
-This project is licensed under the MIT License - see the LICENSE file for details.
