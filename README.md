@@ -1,0 +1,2 @@
+# Image-Classification-Projects
+ This repository contains two image classification projects using deep learning techniques. The first project focuses on classifying images from the CIFAR-10 dataset using Convolutional Neural Networks (CNNs). The second project involves detecting malaria-infected cells using CNNs. Both projects demonstrate the application of CNNs for image classification and include detailed implementations and results.
