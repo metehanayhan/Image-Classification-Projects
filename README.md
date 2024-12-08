@@ -75,4 +75,4 @@ Bu proje, cilt görüntülerini analiz ederek kanserli veya sağlıklı olduğun
 
 ## Sonuçlar
 
-Projeler kapsamında, eğitim ve test verileri üzerinde elde edilen doğruluk ve kayıp değerleri detaylı olarak incelenmiştir. Eğitim sürecine ait doğruluk ve kayıp grafiklerini de proje dokümanlarında bulabilirsiniz.
+Projeler kapsamında, eğitim ve test verileri üzerinde elde edilen doğruluk ve kayıp değerleri detaylı olarak incelendi. Eğitim sürecine ait doğruluk ve kayıp grafiklerini de proje dokümanlarında bulabilirsiniz.
