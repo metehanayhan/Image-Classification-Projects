@@ -1,3 +1,4 @@
+[EN]
 # Image Classification Projects
 
 This repository contains three image classification projects utilizing Convolutional Neural Networks (CNNs).
